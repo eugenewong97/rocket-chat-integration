@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{377F252F-7644-4239-AAF8-A969E47A11CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/LoginResult/LoginResultModel.cs">
+    <Files>
+      <File FileName="Controllers/RocketChatLogin.cs" Line="35" Column="25" />
+      <File FileName="Extensions/RocketChatApi.cs" Line="32" Column="73" />
+      <File FileName="Models/LoginModel.cs" Line="10" Column="1" />
+      <File FileName="Models/LoginResultModel.cs" Line="11" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rocket.chat.integration" expanded="True">
+            <Node name="rocket.chat.integration" expanded="True">
+              <Node name="Constants" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="LoginResult" expanded="True">
+                  <Node name="LoginResultModel.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.rocket.chat.integration PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
