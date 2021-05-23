@@ -32,8 +32,8 @@ namespace rocket.chat.integration.Controllers
 
             var rocketchatApi = new RocketChatApi();
 
-            var user = userCredential.user;
-            var password = userCredential.password;
+            var user = userCredential.User;
+            var password = userCredential.Password;
 
             if(user is null && password is null)
             {

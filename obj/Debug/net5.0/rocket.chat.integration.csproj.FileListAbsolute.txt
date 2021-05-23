@@ -33,3 +33,4 @@
 /Users/wongjunyao/Projects/dotnet/rocket.chat.integration/obj/Debug/net5.0/ref/rocket.chat.integration.dll
 /Users/wongjunyao/Projects/dotnet/rocket.chat.integration/obj/Debug/net5.0/rocket.chat.integration.pdb
 /Users/wongjunyao/Projects/dotnet/rocket.chat.integration/obj/Debug/net5.0/rocket.chat.integration.genruntimeconfig.cache
+/Users/wongjunyao/Projects/dotnet/rocket.chat.integration/obj/Debug/net5.0/rocket.chat.integration.csprojAssemblyReference.cache

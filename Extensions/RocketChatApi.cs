@@ -18,13 +18,13 @@ namespace rocket.chat.integration.Extensions
 
             var loginModel = new LoginModel()
             {
-                user = username,
-                password = userPassword
+                User = username,
+                Password = userPassword
             };
 
             var loginUrl = $"{RocketChatServer.BASE_URL}/api/v1/login";
             var json = JsonSerializer.Serialize<LoginModel>(loginModel);           
-
+            
             var postData = await client.PostAsync(loginUrl, new StringContent(json, Encoding.UTF8, "application/json"));
 
             return postData;
